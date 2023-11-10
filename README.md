@@ -1,8 +1,7 @@
-# All Projects
-Alhamdulillah...Here are some projects in which I tried to gather all of them in one place. 
 
----
+## Alhamdulillah...Here are some projects in which I tried to gather all of them in one place. 
 
+<br>
 
 
 
