@@ -18,9 +18,9 @@ Alhamdulillah. Here are some projects where I tried to gather all of them in one
    <br>
 
 ### ❒ Manual Testing - All TestCases
-> - [Test-Case_Invoice Genarator](https://github.com/tmb1n/ManualTesting_All-TestCases/blob/main/README.md#test-case-_-invoice-genarator)
-> - [Test-Case_MedicineCare](https://github.com/tmb1n/ManualTesting_All-TestCases/blob/main/README.md#test-case-_-medicinecare)
-> - [Test-Case_ordekhDeen.com](https://github.com/tmb1n/ManualTesting_All-TestCases/blob/main/README.md#test-case-_-medicinecare)
+> - [Test-Case_MedicineCare](https://github.com/tmb1n/ManualTesting_TestCases-01#manual-testing---testcases_01)
+> - [Test-Case_Invoice Genarator](https://github.com/tmb1n/ManualTesting_TestCases-02#manual-testing---testcases_02)
+
 
 
 <br>
