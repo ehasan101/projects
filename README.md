@@ -19,7 +19,7 @@
 
 ### ❒ Manual Testing - All TestCases
 > - [Test-Case_MedicineCare](https://github.com/tmb1n/ManualTesting_TestCases-01#manual-testing---testcases_01)
-> - [Test-Case_Invoice Genarator](#)
+> - Test-Case_Invoice Genarator
 
 
 
