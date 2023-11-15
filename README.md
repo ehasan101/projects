@@ -7,7 +7,7 @@
 
 
 ### ❒ API Testing
-> - [Student-Management](https://github.com/tmb1n/Student-Management_API-Testing-Project/blob/main/README.md#api_testing-project)
+> - [Student-Management](https://github.com/tmb1n/Student-Management_API-Testing-Project)
 
 
 
