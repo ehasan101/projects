@@ -6,9 +6,9 @@
 
 
 
-### ❒ API Testing
+#### ❒ API Testing
 > - [Student-Management](https://github.com/tmb1n/Student-Management_API-Testing-Project)
-
+> - [Book-Store-API](https://github.com/tmb1n/BookStoreAPI-API_Testing)
 
 
 
@@ -17,7 +17,7 @@
    
 
 
-### ❒ Manual Testing - All TestCases
+#### ❒ Manual Testing - All TestCases
 > - [Test-Case_MedicineCare](https://github.com/tmb1n/ManualTesting_TestCases-01#manual-testing---testcases_01)
 > - Test-Case_Invoice Genarator
 
