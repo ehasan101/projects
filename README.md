@@ -3,7 +3,7 @@
 
 ---
 ### ❒ API Testing
-> - [Student-Management](https://github.com/ehasan101/Student-Management_API-Testing-Project)
+> - [Student-Management](https://github.com/ehasan101/StudentManagement-API_Testing)
 > - [Book-Store-API](https://github.com/ehasan101/BookStoreAPI-API_Testing)
 
 
@@ -12,12 +12,12 @@
 
 
 ### ❒ Manual Testing - All TestCases
-> - [Test-Case_MedicineCare](https://github.com/ehasan101/ManualTesting_TestCases-01#manual-testing---testcases_01)
+> - [Test-Case_MedicineCare](https://github.com/ehasan101/MedicineCare-Manual_Testing)
 > - Test-Case_Invoice Genarator
 
 
 ### ❒ Performance Testing
-> - [PerformanceTesting-on-test.k6.io](https://github.com/ehasan101/test.k6-PublicAPI-Performance_Testing)
+> - [PerformanceTesting-on-test.k6.io](https://github.com/ehasan101/test.k6_PublicAPI-Performance_Testing)
 
 ### ❒ UI Testing
 > - [UI Testing with Asana](https://drive.google.com/drive/folders/1xZwgHNA1pMYg3E2hWzJH1MrfJWVoTCcy?usp=drive_link)
