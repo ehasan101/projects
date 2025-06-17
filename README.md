@@ -1,5 +1,7 @@
 # All Projects
-<p> Alhamdulillah. Here are some projects where I tried to collect all of them in one place. </p>
+<p> Alhamdulillah, I'm a Software Quality Assurance professional with hands-on experience in the full testing lifecycle. My expertise spans API Testing, Web Automation, Manual Test Case creation, Performance Testing, and UI/UX validation. I also have a strong foundation in cyber Security including vulnerability scanning & Security Testing. I am skilled in managing projects and tracking bugs using Agile tools like Jira, Asana, ClickUp, and Trello.
+Here are some projects where I tried to collect all of them in one place.
+</p>
 
 ---
 ### ❒ API Testing
