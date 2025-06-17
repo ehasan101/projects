@@ -26,8 +26,11 @@
 ---
 ### ❒ Cyber Security
 #### Security Testing
-> Vulnerability Scanning:
-> -  [Report_for_Affected_Items](https://drive.google.com/drive/folders/1YjayhPWEvYfMTQXi9QzThtwrXQ-HHafW?usp=drive_link)
+> -  [Security Testing with mitmweb+OWASP OFFAT](https://youtu.be/eXoS8kmOjok)
+
+> -  [DemoSite-Vulnerability Scanning Report](https://drive.google.com/drive/folders/1YjayhPWEvYfMTQXi9QzThtwrXQ-HHafW?usp=drive_link)
+
+
 
 #### Problem Solving
 > - [CTF Writeup/Walkthrough](https://github.com/ehasan101/writeup)
