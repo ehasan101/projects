@@ -43,6 +43,8 @@
 > - [Bug Tracking with Jira](https://drive.google.com/drive/folders/1f_BrYQ_inZDJbp439tJ7zsM6hZ9xZ_kJ?usp=drive_link)
 > - Project Management with Asana
 > - Project Management with ClickUp
+> - Project Management with Trello
+
 <br>
 
 ---
