@@ -9,20 +9,26 @@ Here are some projects where I tried to collect all of them in one place.
 > - Book-Store-API
 
 
-### ❒ Automation Testing
-> - [Simple Testing with Selenium Webdriver](https://github.com/ehasan101/WebAutomation_using_SeleniumWebdriver)
-
-
-### ❒ Manual Testing - All TestCases
+### ❒ Automation & Manual Testing
 > - [Test-Case_MedicineCare](https://github.com/ehasan101/MedicineCare-Manual_Testing)
 > - Test-Case_Invoice Genarator
+> - [BotForge - ScriptSanctuary](https://github.com/ehasan101/BotForge-ScriptSanctuary)
+> - [Simple Automation Testing with Selenium Webdriver](https://github.com/ehasan101/WebAutomation_using_SeleniumWebdriver)
+> - 
+
+
 
 
 ### ❒ Performance Testing
 > - [PerformanceTesting-on-test.k6.io](https://github.com/ehasan101/test.k6_PublicAPI-Performance_Testing)
 
+
+### ❒ Database Testing
+> - 
+
+<!--
 ### ❒ UI Testing
-> - [UI Testing with Asana](https://drive.google.com/drive/folders/1xZwgHNA1pMYg3E2hWzJH1MrfJWVoTCcy?usp=drive_link)
+> - [UI Testing with Asana](https://drive.google.com/drive/folders/1xZwgHNA1pMYg3E2hWzJH1MrfJWVoTCcy?usp=drive_link) -->
 <br>
 
 ---
