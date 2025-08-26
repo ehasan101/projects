@@ -12,8 +12,9 @@ Here are some projects where I tried to collect all of them in one place.
 ### ❒ Automation & Manual Testing
 > - [Test-Case_MedicineCare](https://github.com/ehasan101/MedicineCare-Manual_Testing)
 > - Test-Case_Invoice Genarator
-> - [BotForge - ScriptSanctuary](https://github.com/ehasan101/BotForge-ScriptSanctuary)
 > - [Simple Automation Testing with Selenium Webdriver](https://github.com/ehasan101/WebAutomation_using_SeleniumWebdriver)
+> - [BotForge - ScriptSanctuary](https://github.com/ehasan101/BotForge-ScriptSanctuary)
+> - LoginPage-AutomationTesting
 > - 
 
 ### ❒ Database Testing
@@ -40,6 +41,15 @@ Here are some projects where I tried to collect all of them in one place.
 
 #### Problem Solving
 > - [CTF Writeup/Walkthrough](https://github.com/ehasan101/writeup)
+
+<br>
+
+---
+### ❒ Assorted
+> - [Simple Blog Site with Registration and Login](https://github.com/ehasan101/CSE4212-assignment)
+> - [LandingPageDesign01](https://github.com/ehasan101/LandingPageDesign01)
+> - LandingPageDesign02
+
 
 
 <br>
