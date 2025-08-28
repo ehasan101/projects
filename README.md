@@ -6,7 +6,7 @@ Here are some projects where I tried to collect all of them in one place.
 ---
 ### ❒ API Testing
 > - [Student-Management](https://github.com/ehasan101/StudentManagement-API_Testing)
-> - Book-Store-API
+> - [Book-Store-API](https://github.com/ehasan101/BookStoreAPI-API_Testing)
 
 
 ### ❒ Automation & Manual Testing
