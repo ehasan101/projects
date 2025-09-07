@@ -47,8 +47,8 @@ Here are some projects where I tried to collect all of them in one place.
 ---
 ### ❒ Assorted
 > - [Simple Blog Site with Registration and Login](https://github.com/ehasan101/CSE4212-assignment)
-> - [LandingPageDesign01](https://github.com/ehasan101/LandingPageDesign01)
-> - LandingPageDesign02
+> - [Landing Page Design-01](https://github.com/ehasan101/LandingPageDesign01)
+> - Landing Page Design 02
 
 
 
