@@ -5,6 +5,7 @@ Here are some projects where I tried to collect all of them in one place.
 
 ---
 ### ❒ API Testing
+> - [Financial-Services-API-Testing-With-PostMan-NewMan](https://github.com/ehasan101/Financial-Services-API-Testing-With-PostMan-NewMan)
 > - [Student-Management](https://github.com/ehasan101/StudentManagement-API_Testing)
 > - [Book-Store-API](https://github.com/ehasan101/BookStoreAPI-API_Testing)
 
@@ -22,7 +23,10 @@ Here are some projects where I tried to collect all of them in one place.
 
 
 ### ❒ Performance Testing
+> - [Performance (Load-Stress) Testing with JMeter](https://github.com/ehasan101/Performance-Testing_Load-Stress-Analysis-via-JMeter)
+> - [JMeter API Chaining](https://github.com/ehasan101/JMeter-API-Chaining)
 > - [PerformanceTesting-on-test.k6.io](https://github.com/ehasan101/test.k6_PublicAPI-Performance_Testing)
+
 
 
 <!--
