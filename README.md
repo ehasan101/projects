@@ -12,14 +12,15 @@ Here are some projects where I tried to collect all of them in one place.
 ### ❒ Automation & Manual Testing
 > - [Test-Case_MedicineCare](https://github.com/ehasan101/MedicineCare-Manual_Testing)
 > - Test-Case_Invoice Genarator
-> - [Simple Automation Testing with Selenium Webdriver](https://github.com/ehasan101/WebAutomation_using_SeleniumWebdriver)
+> - [Simple Automation Testing with Selenium Webdriver](https://github.com/ehasan101/Automation-with-Selenium-JUnit)
 > - [BotForge - ScriptSanctuary](https://github.com/ehasan101/BotForge-ScriptSanctuary)
-> - LoginPage-AutomationTesting
-> - 
+> - [LoginPage-AutomationTesting](https://github.com/ehasan101/e2e_Automation-with-Playwright)
 
+
+<!--
 ### ❒ Database Testing
 > - 
-
+-->
 
 ### ❒ Performance Testing
 > - [Performance (Load-Stress) Testing with JMeter](https://github.com/ehasan101/Performance-Testing_Load-Stress-Analysis-via-JMeter)
